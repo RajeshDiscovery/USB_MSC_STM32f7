@@ -1,3 +1,3 @@
 ## USB_MSC_STM32f7
-#trying to evaluate USB MSC on stm32f746G-disc using FREE RTOS
+# Trying to evaluate USB MSC on stm32f746G-disc using FREE RTOS
 USB MSC on stm32F746g disco
